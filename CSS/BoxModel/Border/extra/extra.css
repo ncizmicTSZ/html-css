@@ -1,0 +1,39 @@
+.p1 {
+    border: 2px solid red;
+}
+
+.p2 {
+    border: 2px dotted red;
+}
+
+.p3 {
+    border: 2px groove red;
+}
+
+.p4 {
+    border: 2px inset red;
+}
+
+.p5 {
+    border: 2px outset red;
+}
+
+.p6 {
+    border: 2px dot-dot-dash red;
+}
+
+.p7 {
+    border: 2px groove red;
+}
+
+.p8 {
+    border: 2px groove red;
+}
+
+.p9 {
+    border: 2px groove red;
+}
+
+.p10 {
+    border: 2px groove red;
+}

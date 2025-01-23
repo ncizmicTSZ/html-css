@@ -1,0 +1,8 @@
+.ovajdiv {
+    border: 1px solid red;
+    margin-left: 100px;
+}
+
+.ovajdiv p {
+    margin: inherit;
+}
