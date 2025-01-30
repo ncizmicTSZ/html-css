@@ -1,0 +1,11 @@
+p {
+    border: 1px black;
+}
+
+.paragrafOutlineRedDouble {
+    outline: thick double red;
+}
+
+.paragrafOutlineGreenDouble {
+    outline: 3px double green;
+}
