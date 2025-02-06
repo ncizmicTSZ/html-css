@@ -1,0 +1,25 @@
+div {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+}
+
+.roza {
+    background-color: deeppink;
+}
+
+.plava {
+    background-color: cornflowerblue;
+    right: 0px;
+}
+
+.zelena {
+    background-color: greenyellow;
+    bottom: 0px;
+}
+
+.zuta {
+    background-color: yellow;
+    right: 0px;
+    bottom: 0px;
+}

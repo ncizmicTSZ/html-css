@@ -1,0 +1,13 @@
+.sticky {
+    position: sticky;
+    border: 2px solid black;
+    top: 0px;
+}
+
+.plavi {
+    margin-top: 1000px;
+
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}

@@ -1,0 +1,19 @@
+div {
+    width: 200px;
+    height: 200px;
+}
+
+.d1 {
+    background-color: deeppink;
+}
+
+.d2 {
+    position: relative;
+    margin-left: 200px;
+
+    background-color: darkcyan;
+}
+
+.d3 {
+    background-color: greenyellow;
+}

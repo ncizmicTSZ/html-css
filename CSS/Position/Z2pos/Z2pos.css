@@ -1,0 +1,18 @@
+div {
+    width: 200px;
+    height: 200px;
+}
+
+.d1 {
+    background-color: deeppink;
+}
+
+.d2 {
+    margin-left: 200px;
+
+    background-color: deepskyblue;
+}
+
+.d3 {
+    background-color: greenyellow;
+}
